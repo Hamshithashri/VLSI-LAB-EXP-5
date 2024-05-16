@@ -97,11 +97,3 @@ endmodule
 
 # RESULT:
 Thus,the simulation and synthesis of finite state machine by using vivado has been successfully excecuted and verified.
-
-
------Place a Waveform Generated from Xilinx ISE------------
-
-RESULT:
-
-
-
